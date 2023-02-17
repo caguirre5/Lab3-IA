@@ -1,0 +1,2 @@
+Este programa hace uso de una interfaz grafica construida con un modulo de python,
+para poder correrlo todo bien, deben instalar el modulo FLET (pip install flet)y ejecutar el programa desde el archivo MAIN.PY. Asi mismo verificar que esten instalados el resto de modulos.  
